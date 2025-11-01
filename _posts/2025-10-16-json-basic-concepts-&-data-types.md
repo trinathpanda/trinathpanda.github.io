@@ -4,7 +4,6 @@ title: "JSON: Basic Concepts & Data Types"
 date: 2025-10-15 12:00:00 +0000
 categories: [Data Formats, JSON]
 tags: [json, data types, tutorial]
-author: Trinath
 ---
 
 
